@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "assignment",
+    "slug": "assignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d1f6a25e-198e-4a21-8eda-413bc17e1bc4"
+      }
+    }
+  }
+}
